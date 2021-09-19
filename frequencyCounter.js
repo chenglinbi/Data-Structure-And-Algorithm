@@ -1,3 +1,4 @@
+//uses frequency pattern
 //valid anagram
 function validAnagram(str1, str2) {
     //declare two objs aka hashtable
